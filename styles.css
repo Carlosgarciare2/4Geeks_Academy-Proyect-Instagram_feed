@@ -1,0 +1,23 @@
+.camera_button{
+    border-radius: 7px;
+    border-color: whitesmoke;
+    width: 35px;
+    height: 30px;
+}
+
+.location {
+        border-radius: 7px;
+        border-color: whitesmoke;
+        width: 35px;
+        height: 30px;
+}
+
+#mycard {
+    display: flex;
+    justify-content: space-between;
+}
+
+#bold {
+    font-size: larger;
+}
+
